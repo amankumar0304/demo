@@ -1,14 +1,31 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[
+    {
+        id: 1,
+        Event_name: "Concert @Alan_Walker",
+        Date: "2020-07-01",
+        Time: "09:00",
+        Venue: "Auditorium",
+      },
+      {
+        id: 2,
+        Event_name: "Coding Competition @DS_&_ALGO",
+        Date: "2020-08-01",
+        Time: "10:00",
+        Venue: "Online, Hackerearth",
+      },
+      {
+        id: 3,
+        Event_name: "WEBINAR (React.js)",
+        Date: "2020-11-01",
+        Time: "09:30",
+        Venue: "Online, ZOOM App",
+      },
+      {
+        id: 4,
+        Event_name: "Annual Function @KV_1_FZR",
+        Date: "2020-11-01",
+        Time: "09:30",
+        Venue: "Auditorium",
+      },
+
+]
